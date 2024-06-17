@@ -10,7 +10,7 @@ const GsapFromTo = () => {
       borderRadius: '0%'
     },
     {
-      x:250,
+      x:300,
       repeat: -1,
       borderRadius:'100%',
       yoyo: true,

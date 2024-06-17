@@ -5,7 +5,7 @@ const GsapFrom = () => {
   // TODO: Implement the gsap.from() method
   useGSAP(()=>{
     gsap.from('#green-box', {
-      x:250,
+      x:300,
       repeat: -1,
       yoyo: true,
       rotation: -360,
